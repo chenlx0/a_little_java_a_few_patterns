@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [1.现代玩具](modern_toys.md)
+* [1.摩登玩具](modern_toys.md)
 
 * [2.疯狂的想法](methods_to_out_madness.md)
 
